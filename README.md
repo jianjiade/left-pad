@@ -1,5 +1,7 @@
 ## iu2fish-left-pad
 
+[![Build Status](https://travis-ci.org/iu2fish/left-pad.svg?branch=master)](https://travis-ci.org/iu2fish/left-pad)
+
 ### Installation
 `npm install iu2fish-left-pad --save-dev`
 
