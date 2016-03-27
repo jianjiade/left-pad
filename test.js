@@ -13,5 +13,5 @@ test('leftpad', function(assert){
 	assert.strictEqual(leftpad('test',6), '  test');
 	assert.strictEqual(leftpad('test',6,'hh'), 'hhhhtest');
 	assert.strictEqual(leftpad('test',4,'hh'), 'test');
-	assert.strictEqual(leftpad('test',2,'hh'), 'test');
+	assert.strictEqual(leftpad(1, 2, 0), '01');
 });
