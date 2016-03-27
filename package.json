@@ -1,0 +1,22 @@
+{
+  "name": "left-pad",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iu2fish/left-pad.git"
+  },
+  "author": "iu2fish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iu2fish/left-pad/issues"
+  },
+  "homepage": "https://github.com/iu2fish/left-pad",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
