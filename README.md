@@ -13,5 +13,5 @@ var leftpad = require('iu2fish-left-pad);
 console.log(leftpad('test',6));
 console.log(leftpad('test',6,'hh'))
 console.log(leftpad('test',4,'hh'))
-console.log(leftpad(1, 2, 0), '01'))
+console.log(leftpad(1, 2, 0))
 ```
